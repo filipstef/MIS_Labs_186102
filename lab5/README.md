@@ -1,2 +1,2 @@
 ## Lab 5
-![lab5](gifs/Lab5.gif)
+![lab5](../gifs/Lab5.gif)
