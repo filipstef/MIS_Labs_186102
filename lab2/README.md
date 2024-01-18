@@ -1,3 +1,3 @@
 ## Lab 2
-![lab2](gifs/lab2.gif)
+![lab2](../gifs/lab2.gif)
 
